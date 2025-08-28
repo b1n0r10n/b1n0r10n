@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bintang Akalla Junjunan 👋</h1>
 <p align="center">
-  👨‍💻 Web Developer & Scientific Programmer | 💻 Machine Learning Enthusiast | 🔭 Amateur Astronomer <br/>
+  👨‍💻 Web Developer | 💻 Machine Learning Enthusiast | 🔭 Amateur Astronomer <br/>
 Currently at <strong>CELLS UPI</strong>
 </p>
 
