@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bintang Akalla Junjunan 👋</h1>
 <p align="center">
-  👨‍💻 Web Developer & Scientific Programmer |Machine Learning Enthusiast | 🔭 Amateur Astronomer <br/>
+  👨‍💻 Web Developer & Scientific Programmer | 💻 Machine Learning Enthusiast | 🔭 Amateur Astronomer <br/>
 Currently at <strong>CELLS UPI</strong>
 </p>
 
@@ -8,7 +8,7 @@ Currently at <strong>CELLS UPI</strong>
 
 ## 🧠 About Me
 
-I'm a web developer and scientific programmer passionate about merging clean code with scientific clarity. With a unique background at the intersection of astronomy, education, and data science, I enjoy building things that serve both curiosity and utility.
+I'm a web developer and scientific programmer passionate about merging clean code with scientific clarity. With a unique background at the intersection of astronomy, and data science, I enjoy building things that serve both curiosity and utility.
 
 Currently, I work at **CELLS UPI (Center for Excellence of Lesson and Learning Studies)**, where I designed and developed the official institutional website to enhance its public profile and digital accessibility. Previously, I’ve collaborated on data-driven and ML-based projects ranging from astronomical star cluster simulations to cancer classification and crypto forecasting models.
 
