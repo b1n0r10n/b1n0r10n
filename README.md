@@ -48,7 +48,7 @@ I am responsible for designing and developing the official website of CELLS UPI.
 - Applied algorithms like Random Forest & SVM, complete with EDA & validation
 - Integrated model pipeline and metric visualization using `scikit-learn` and `seaborn`
 
-### 📈 [Solana Price Forecasting](https://github.com/)
+### 📈 [Solana Price Forecasting](https://github.com/b1n0r10n/solana-price-forecasting)
 - Developed a deep learning model (LSTM) to forecast **Solana ($SOL)** price trends
 - Incorporated time series analysis and technical indicators
 - Tools used: `tensorFlow`, `scikit-learn`, `seaborn`, `numpy`, `pandas`
