@@ -33,10 +33,15 @@ I am responsible for designing and developing the official website of CELLS UPI.
 
 ## 🚀 Highlight Projects
 
-### 🌌 [Open Cluster Membership with HDBSCAN](https://github.com/)
+### 🌌 [Open Cluster Membership with HDBSCAN](https://github.com/b1n0r10n/pleiades-hdbscan)
 - Used unsupervised clustering (HDBSCAN) to identify member stars in the **Pleiades cluster**
 - Processed and visualized Gaia DR3 data, validated using **Gaia EDR3** from the VizieR catalog
-- Tools used: `scikit-learn`, `pandas`, `matplotlib`, `astropy`
+- Tools used: `scikit-learn`, `hdbscan`, `pandas`, `matplotlib`, `numpy `
+
+### 🌌 [BCA Mobile APP Sentiment Analysis](https://github.com/b1n0r10n/sentiment-analysis-bca-mobile)
+- Used unsupervised clustering (HDBSCAN) to identify member stars in the **Pleiades cluster**
+- Processed and visualized Gaia DR3 data, validated using **Gaia EDR3** from the VizieR catalog
+- Tools used: `scikit-learn`, `pandas`, `matplotlib`, `numpy`, `seaborn`, `xgboost`, `sastrawi`
 
 ### 🧬 [Smart Cancer AI](https://github.com/)
 - Built a machine learning model to classify tumor types from biomedical datasets
@@ -46,7 +51,7 @@ I am responsible for designing and developing the official website of CELLS UPI.
 ### 📈 [Solana Price Forecasting](https://github.com/)
 - Developed a deep learning model (LSTM) to forecast **Solana ($SOL)** price trends
 - Incorporated time series analysis and technical indicators
-- Tools used: `TensorFlow`, `Pandas`, `Plotly`, `Keras`
+- Tools used: `tensorFlow`, `scikit-learn`, `seaborn`, `numpy`, `pandas`
 
 ---
 
