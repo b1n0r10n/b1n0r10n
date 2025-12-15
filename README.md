@@ -43,11 +43,6 @@ I am responsible for designing and developing the official website of CELLS UPI.
 - Processed and visualized Gaia DR3 data, validated using **Gaia EDR3** from the VizieR catalog
 - Tools used: `scikit-learn`, `pandas`, `matplotlib`, `numpy`, `seaborn`, `xgboost`, `sastrawi`
 
-### 🧬 [Smart Cancer AI](https://github.com/)
-- Built a machine learning model to classify tumor types from biomedical datasets
-- Applied algorithms like Random Forest & SVM, complete with EDA & validation
-- Integrated model pipeline and metric visualization using `scikit-learn` and `seaborn`
-
 ### 📈 [Solana Price Forecasting](https://github.com/b1n0r10n/solana-price-forecasting)
 - Developed a deep learning model (LSTM) to forecast **Solana ($SOL)** price trends
 - Incorporated time series analysis and technical indicators
